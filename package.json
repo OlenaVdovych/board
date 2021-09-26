@@ -1,0 +1,24 @@
+{
+  "name": "board",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OlenaVdovych/board.git"
+  },
+  "author": "Olena Vdovych",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/OlenaVdovych/board/issues"
+  },
+  "engines": {
+    "node": "14.17.6",
+    "npm": "7.24.1"
+  },
+  "homepage": "https://github.com/OlenaVdovych/board#readme"
+}
